@@ -1,0 +1,31 @@
+w 500
+h 400
+x -2.0
+X 2.0
+y -2.0
+Y 2.0
+a -0.279412
+b -0.658824
+e 255
+c
+p
+s julia_example1.ppm
+S
+
+x -1.0
+X 1.0
+y -1.0
+Y 1.0
+c
+p
+s julia_example2.ppm
+S
+
+a 0.22451
+b 0.606863
+c
+p
+s julia_example3.ppm
+S
+
+q
